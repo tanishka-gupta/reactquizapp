@@ -1,2 +1,2 @@
-# reactquixapp
+# reactquizapp
 Heritage Olympiad App
